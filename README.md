@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**hades-athanasiou/hades-athanasiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer • 📊 Project Manager  
 
-Here are some ideas to get you started:
+I design, build, and analyze systems.  
+My goal is simple: build and manage secure, efficient software while thinking about the bigger architectural picture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+🔐 Security engineering and system analysis  
+💻 Backend and infrastructure development  
+📊 Designing and leading technical projects  
+
+---
+
+## 🔎 Areas of Interest
+  
+🌐 Network and infrastructure security  
+🏗️ System architecture  
+⚡ Automation and tooling  
+
+---
+
+## 🧰 Tech I Work With
+
+🐧 Linux  
+⚙️ Node.js  
+🌐 Networking tools  
+🔐 Security testing tools  
+💻 Modern web stacks  
+
+---
+
+## 🧠 Philosophy
+
+Understand the system.  
+Break the system.  
+Build it better.
+
+---
